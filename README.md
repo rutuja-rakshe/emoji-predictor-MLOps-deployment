@@ -1,5 +1,8 @@
 # 🚀 Emoji Predictor Deployment (FastAPI + Docker + AWS)
 
+## 🎥 Demo Video
+[Watch Demo Video](https://drive.google.com/file/d/1Vba68zBCBfDI7oazhP9TWkYiixRs4zqM/view?usp=sharing)
+
 ## 📌 Overview
 This project deploys an LSTM-based emoji prediction model using FastAPI, Docker, and AWS EC2 with Nginx.
 
