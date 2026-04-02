@@ -1,3 +1,16 @@
+## 🎯 Demo Output
+
+Test Results:
+I am very happy → 😊
+I hate this → 😡
+this is bad → 😢
+
+## 💼 Key Highlights
+
+- Built LSTM-based NLP model for emoji prediction
+- Implemented tokenization, padding, and sequence modeling
+- Achieved accurate classification on custom dataset
+
 # 😊 Emoji Predictor using Deep Learning
 
 ## 📌 Project Overview
